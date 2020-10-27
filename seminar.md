@@ -26,17 +26,16 @@ Le séminaire est généralement retransmis en visioconference à l'adresse http
 
 ## PROGRAMME
 
-2020-11-13 (14h-16h). (Clément Hénin)[https://planete.inrialpes.fr/people/chenin/] :  Score Coeur et son usage à l’hôpital (Clément Hénin, Doctorant Inria / PRIVATICS)
+**2020-11-13 (14h-16h)**. [Clément Hénin](https://planete.inrialpes.fr/people/chenin/) :  « L'algorithme d'attribution des greffons cardiaques Score Coeur et son usage à l’hôpital »
 
-2020-11-20. Collecte et analyse de données Twitter (Anastasia Magat) / avec les Vendredis Quanti
+**2020-11-20 (14h-16h)**. Anastasia Magat : « Collecter, traiter et analyser des données Twitter » (avec les Vendredis Quanti)
 
-2020-11-27. Maria Castaldo, qui fait sa thèse avec moi et Tommaso Venturini, vraisemblablement sur une analyse de données de visualisation YouTube de chaines media françaises
+**2020-11-27**. [Maria Castaldo](http://www.gipsa-lab.fr/page_pro.php?vid=3587) : « Modélisation de la visibilité des chaînes de médias françaises sur Youtube »
 
-2021-03-12 (12h-14h). Laurence Dumoulin présentera son travail en cours sur l’IA dans la justice en France
+**2020-12-04 (12h-14h)**. [Bilel Benbouzid](http://ifris.org/membre/benbouzid-bilel/) : « Le cadran de visibilité politique et médiatique sur YouTube : la part de la recommandation algorithmique » (avec le séminaire Régulations)
+Et **(14h-16h)**. [Jean Finez](https://www.pacte-grenoble.fr/membres/jean-finez) et [Jingyue Xing](https://www.pacte-grenoble.fr/membres/jingyue-xing) : « Comportement de diffusion sur une plateforme pornographique » (avec les Vendredis Quanti)
 
-2021-01-29 (12h-14h). Philipp Brandt présentera son travail de thèse sur l’émergence de la profession de « data scientist » à New York + vendredis quanti
-A « computational hermeneutics » analysis of data science tweets (P. Brandt) / avec les Vendredis Quanti
+**2021-03-12 (12h-14h)** [Laurence Dumoulin](https://www.pacte-grenoble.fr/membres/laurence-dumoulin) : « La justice prédictive en France » (titre provisoire)
 
-2020-12-04 (12h-14h). Bilel Benbouzid
-
-Comportement de diffusion sur une plateforme pornographique (Jean Finez et Jingyue Xing) / avec les Vendredis Quanti
+**2021-01-29 (12h-14h)**. [Philipp Brandt](https://www.sciencespo.fr/cso/fr/chercheur/Philipp%20Brandt/8423.html) : « Mechanisms of Emergence in the Data Science Profession » (titre provisoire)
+Et **14h-16h** : « A computational hermeneutics analysis of data science tweets » (avec les Vendredis Quanti)
