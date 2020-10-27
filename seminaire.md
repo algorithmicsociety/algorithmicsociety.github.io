@@ -20,9 +20,9 @@ Certaines séances du séminaire sont organisées conjointement avec le séminai
 ## REMARQUES
 
 Le séminaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage) mais étant donné le contexte 
-il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire (@AlgoSociety).
+il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire ([@AlgoSociety](https://twitter.com/AlgoSociety)).
 
-Le séminaire est généralement retransmis en visioconference à l'adresse https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u
+Le séminaire est généralement retransmis en visioconference à l'adresse [https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u](https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u)
 
 ## PROGRAMME
 
@@ -33,9 +33,11 @@ Le séminaire est généralement retransmis en visioconference à l'adresse http
 **2020-11-27**. [Maria Castaldo](http://www.gipsa-lab.fr/page_pro.php?vid=3587) : « Modélisation de la visibilité des chaînes de médias françaises sur Youtube »
 
 **2020-12-04 (12h-14h)**. [Bilel Benbouzid](http://ifris.org/membre/benbouzid-bilel/) : « Le cadran de visibilité politique et médiatique sur YouTube : la part de la recommandation algorithmique » (avec le séminaire Régulations)
+
 Et **(14h-16h)**. [Jean Finez](https://www.pacte-grenoble.fr/membres/jean-finez) et [Jingyue Xing](https://www.pacte-grenoble.fr/membres/jingyue-xing) : « Comportement de diffusion sur une plateforme pornographique » (avec les Vendredis Quanti)
 
 **2021-03-12 (12h-14h)** [Laurence Dumoulin](https://www.pacte-grenoble.fr/membres/laurence-dumoulin) : « La justice prédictive en France » (titre provisoire)
 
 **2021-01-29 (12h-14h)**. [Philipp Brandt](https://www.sciencespo.fr/cso/fr/chercheur/Philipp%20Brandt/8423.html) : « Mechanisms of Emergence in the Data Science Profession » (titre provisoire)
+
 Et **14h-16h** : « A computational hermeneutics analysis of data science tweets » (avec les Vendredis Quanti)
