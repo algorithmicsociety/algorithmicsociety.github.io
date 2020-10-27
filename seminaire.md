@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		Seminar
+title:  		Seminaire
 type:			  page
 navigation: true
 details:    true
