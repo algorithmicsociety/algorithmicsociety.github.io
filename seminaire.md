@@ -22,7 +22,7 @@ Certaines séances du séminaire sont organisées conjointement avec le séminai
 Le séminaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage) mais étant donné le contexte 
 il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire ([@AlgoSociety](https://twitter.com/AlgoSociety)).
 
-Le séminaire est généralement retransmis en visioconference à l'adresse [https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u](https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u)
+Sauf précision contraire, le séminaire est retransmis en visioconference à l'adresse [https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u](https://meet.univ-grenoble-alpes.fr/b/gil-fr4-c7u)
 
 ## PROGRAMME
 
