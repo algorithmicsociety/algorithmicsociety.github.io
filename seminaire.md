@@ -25,7 +25,7 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 ## PROGRAMME
 
-2020-11-13 (14h-16h). **Clément Hénin (INRIA)** : «Confier une décision vitale à une machine » (sur Score Coeur et son usage à l’hôpital.
+2020-11-13 (14h-16h). **Clément Hénin (INRIA)** : «Confier une décision vitale à une machine » (sur Score Coeur et son usage à l’hôpital).
 
 2020-11-20 (14h-16h). **Anastasia Magat (Pacte)** : « Collecter, traiter et analyser des données Twitter » 
 
