@@ -14,7 +14,7 @@ image: 			header-1.jpg
 ---
 
 Vous trouverez sur cette page le programme à venir du séminaire de la chaire.
-Certaines séances du séminaire sont organisées conjointement avec le séminaire hebdomadaire de l'équipe Régulations ou avec les Vendredis Quanti du laboratoire Pacte.
+Certaines séances du séminaire sont organisées conjointement avec le séminaire hebdomadaire de [https://www.pacte-grenoble.fr/page/regulations](l'équipe Régulations) ou avec les [https://quantigre.hypotheses.org/](Vendredis Quanti) du laboratoire Pacte.
 
 ## REMARQUES
 
