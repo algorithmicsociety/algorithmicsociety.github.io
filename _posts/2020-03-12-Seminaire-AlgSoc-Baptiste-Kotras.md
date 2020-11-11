@@ -1,7 +1,7 @@
 ---
 
 layout:		  	default
-title:  		  "[Séminaire AlgSoc] Baptiste Kotras : « Capitales données. Économies politiques et matérielles du data marketing »"
+title:  		  "[Séminaire AlgSoc] Baptiste Kotras : « Capitales données. Économies politiques et matérielles du data marketing (12 mars 2020) »"
 type:			    post
 navigation:   false
 
@@ -14,4 +14,4 @@ details:		  true
 
 ---
 
-Résumé de la séance à venir.
+Baptiste Kotras présentera ses travaux et son projet pour le CNRS lors de ce séminaire (12 mars 2020, salle de réunion du laboratoire Pacte, 14h30-16h30)
