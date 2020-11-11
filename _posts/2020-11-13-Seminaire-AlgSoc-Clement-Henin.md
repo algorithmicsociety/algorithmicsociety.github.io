@@ -14,7 +14,7 @@ details:		  true
 
 ---
 
-Clément Hénin présentera ses travaux sur l'usage de l'algorithme Score Coeur à l'hôpital lors de ce séminaire de la Chaire.
+[Clément Hénin](https://planete.inrialpes.fr/people/chenin/), doctorant à l'INRIA, présentera ses travaux sur l'usage de l'algorithme Score Coeur à l'hôpital lors de ce séminaire de la Chaire.
 
 Le séminaire aura lieu vendredi 13 novembre 2020 de 14h à 16h.
 
