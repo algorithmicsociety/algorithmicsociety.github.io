@@ -35,13 +35,15 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique »
 
-2021-03-12 (12h-14h). **Laurence Dumoulin (Pacte)** : « La justice prédictive en France » (titre provisoire)
-
 2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme »
 
 2021-01-29 (12h-14h). **Philipp Brandt (CSO / Sciences Po)** : « Mechanisms of Emergence in the Data Science Profession » (titre provisoire)
 
 2021-01-29 (14h-16h). **Philipp Brandt (CSO / Sciences Po)** :  « A computational hermeneutics analysis of data science tweets »
+
+2021-02-05 (14h-16h). **Colin Gerard (Institut français de géopolitique)** : « L’influence informationnelle russe en France : acteurs, discours et réception »
+
+2021-03-12 (12h-14h). **Laurence Dumoulin (Pacte)** : « La justice prédictive en France » (titre provisoire)
 
 2021-05-07 (12h-14h). **Antonio Casilli (Telecom Paris & Ehess) et Paola Tubaro (LRI / ENS Saclay)** : « The trainer, the verifier, the imitator: Three ways in which human platform workers support artificial intelligence »
 
