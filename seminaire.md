@@ -29,9 +29,7 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 2020-11-20 (14h-16h). **Anastasia Magat (Pacte)** : « Collecter, traiter et analyser des données Twitter » 
 
-2020-11-27 (14h-16h). **Maria Castaldo (G-INP)** : « The faster the junkier: an analysis of online content quality through speed of consumption » (sur Youtube)
-
-2020-12-04 (12h-14h). **Bilel Benbouzid (LISIS / UPEM)** : « Le cadran de visibilité politique et médiatique sur YouTube : la part de la recommandation algorithmique »
+2020-11-27 (14h-16h). **Maria Castaldo (G-INP)** : « The faster the junkier: an analysis of online content quality through speed of consumption » (sur Youtube) et **Bilel Benbouzid (LISIS / UPEM)** : « Le cadran de visibilité politique et médiatique sur YouTube : la part de la recommandation algorithmique »
 
 2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique »
 
