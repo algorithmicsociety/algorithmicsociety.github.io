@@ -31,7 +31,7 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 2020-11-27 (14h-16h). **Maria Castaldo (G-INP)** : « The faster the junkier: an analysis of online content quality through speed of consumption » (sur Youtube) et **Bilel Benbouzid (LISIS / UPEM)** : « Le cadran de visibilité politique et médiatique sur YouTube : la part de la recommandation algorithmique »
 
-2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique »
+2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique » (sur Zoom : l'adresse est communiquée sur demande à gilles.bastin@iepg.fr)
 
 2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme »
 
