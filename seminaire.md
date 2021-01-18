@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-Vous trouverez sur cette page le programme à venir du séminaire de la chaire. Ce séminaire est ouvert à toutes celles et tous ceux qui souhaitent y participer.
+Vous trouverez sur cette page le programme passé et à venir du séminaire de la chaire. Ce séminaire est ouvert à toutes celles et tous ceux qui souhaitent y participer.
 Certaines séances sont organisées conjointement avec le séminaire hebdomadaire de [l'équipe Régulations](https://www.pacte-grenoble.fr/page/regulations) ou avec les [Vendredis Quanti](https://quantigre.hypotheses.org/) du laboratoire Pacte.
 
 ## REMARQUES
@@ -33,7 +33,7 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique » (sur Zoom : l'adresse est communiquée sur demande à gilles.bastin@iepg.fr)
 
-2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme »
+2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme » ([Vidéo du séminaire](https://cloud.univ-grenoble-alpes.fr/index.php/s/HCkT3JeTjrAS2YC))
 
 2021-01-29 (12h-14h). **Philipp Brandt (CSO / Sciences Po)** : « Mechanisms of Emergence in the Data Science Profession » (titre provisoire)
 
