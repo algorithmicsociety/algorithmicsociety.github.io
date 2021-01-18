@@ -33,7 +33,7 @@ Sauf précision contraire, le séminaire est retransmis en visioconference à l'
 
 2020-12-04 (14h-16h). **Jean Finez (Pacte) et Jingyue Xing (Pacte & CMH)** : « Comportement de diffusion sur une plateforme pornographique » (sur Zoom : l'adresse est communiquée sur demande à gilles.bastin@iepg.fr)
 
-2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme » ([Vidéo du séminaire](https://cloud.univ-grenoble-alpes.fr/index.php/s/HCkT3JeTjrAS2YC))
+2021-01-15 (17h-19h). **Angèle Christin (Stanford)** : « L'ethnographe et l'algorithme » ([Vidéo du séminaire]({https://cloud.univ-grenoble-alpes.fr/index.php/s/HCkT3JeTjrAS2YC}))
 
 2021-01-29 (12h-14h). **Philipp Brandt (CSO / Sciences Po)** : « Mechanisms of Emergence in the Data Science Profession » (titre provisoire)
 
