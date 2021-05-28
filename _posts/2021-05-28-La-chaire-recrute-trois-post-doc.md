@@ -7,7 +7,7 @@ navigation: false
 details:		  true
 
 date:   		2021-05-28
-excerpt: 		"La chaire recrute trois post-doctorant•es (1 an) à partir du 1er octobre 2021"
+excerpt: 		""
 categories:   News
 gradient: 		2
 image: 			  header-1.jpg
