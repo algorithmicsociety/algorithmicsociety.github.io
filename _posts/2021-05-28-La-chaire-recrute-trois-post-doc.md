@@ -7,14 +7,14 @@ navigation: false
 details:		  true
 
 date:   		2021-05-28
-excerpt: 		"La Chaire recrute un•e doctorant•e (3 ans) entièrement financé•e à partir de septembre 2020. | The Chair is advertising a fully-funded PhD student position (3 years) starting in September 2020."
+excerpt: 		"La chaire recrute trois post-doctorant•es (1 an) à partir du 1er octobre 2021"
 categories:   News
 gradient: 		2
 image: 			  header-1.jpg
 
 ---
 
-La Chaire Société Algorithmique recrute trois post doctorant•es pour travailler sur le tournant algorithmique dans le domaine de la médecine, de la police et des médias.
+La Chaire Société Algorithmique recrute trois post-doctorant•es pour travailler sur le tournant algorithmique dans le domaine de la médecine, de la police et des médias.
 
 ## Les projets
 
@@ -37,7 +37,7 @@ Les candidat•es doivent faire parvenir avant le 1er juillet un dossier comport
 
 L'adresse à laquelle faire parvenir les documents est indiquée dans la description des projets.
 
-Les dossiers de candidature seront examinés par un jury composé des chercheurs associés à la chaire. Une réponse sera donnée à tou•tes les candidat•es avant le 31 juillet 2021.
+Les dossiers de candidature seront examinés par un jury composé des chercheur•es associé•es à la chaire. Une réponse sera donnée à tou•tes les candidat•es avant le 31 juillet 2021.
 
 ## Plus d’informations
 
