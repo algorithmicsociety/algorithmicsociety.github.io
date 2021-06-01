@@ -20,9 +20,10 @@ La Chaire Société Algorithmique recrute trois post-doctorant•es pour travail
 
 ## Les projets | The projects
 
-- [Le travail algorithmique en médecine](https://algorithmicsociety.github.io/pdf/medicine.pdf) ([english version](https://algorithmicsociety.github.io/pdf/medicine_en.pdf))
-- [Innovations et expérimentations algorithmiques dans les activités de policing](https://algorithmicsociety.github.io/pdf/policing.pdf) ([english version](https://algorithmicsociety.github.io/pdf/policing_en.pdf))
-- [L’ajustement des rédactions des médias aux algorithmes des services de partage de contenus pendant la campagne présidentielle de 2022](https://algorithmicsociety.github.io/pdf/platforms.pdf) ([english version](https://algorithmicsociety.github.io/pdf/platforms_en.pdf))
+- [Le travail algorithmique en médecine](https://algorithmicsociety.github.io/pdf/medicine.pdf) ([Algorithmic work in medicine](https://algorithmicsociety.github.io/pdf/medicine_en.pdf))
+- [Innovations et expérimentations algorithmiques dans les activités de policing](https://algorithmicsociety.github.io/pdf/policing.pdf) ([Algorithmic Innovations and Experiments in Policing Activities](https://algorithmicsociety.github.io/pdf/policing_en.pdf))
+- [L’ajustement des rédactions des médias aux algorithmes des services de partage de contenus pendant la campagne présidentielle de 2022](https://algorithmicsociety.github.io/pdf/platforms.pdf) ([Newsrooms adjustement to content sharing platforms during the 2022 french presidential campaign
+](https://algorithmicsociety.github.io/pdf/platforms_en.pdf))
 
 ## Environnement de travail | Work environment 
 
