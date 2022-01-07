@@ -7,7 +7,8 @@ navigation: true
 details:    true
 
 date:   		2020-10-27
-excerpt: 		"Vous trouverez sur cette page le programme passé et à venir du séminaire de la chaire. Ce séminaire est ouvert à toutes celles et tous ceux qui souhaitent y participer. Certaines séances sont organisées conjointement avec le séminaire hebdomadaire de [l'équipe Régulations](https://www.pacte-grenoble.fr/page/regulations) ou avec les [Vendredis Quanti](https://quantigre.hypotheses.org/) du laboratoire Pacte."
+excerpt: 		"Le séminaire de la Chaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage) mais étant donné le contexte 
+il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire ([@AlgoSociety](https://twitter.com/AlgoSociety))."
 gradient: 	2
 image: 			header-1.jpg
 
@@ -15,8 +16,7 @@ image: 			header-1.jpg
 
 ## REMARQUES
 
-Le séminaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage) mais étant donné le contexte 
-il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire ([@AlgoSociety](https://twitter.com/AlgoSociety)).
+Vous trouverez sur cette page le programme passé et à venir du séminaire de la chaire. Ce séminaire est ouvert à toutes celles et tous ceux qui souhaitent y participer. Certaines séances sont organisées conjointement avec le séminaire hebdomadaire de [l'équipe Régulations](https://www.pacte-grenoble.fr/page/regulations) ou avec les [Vendredis Quanti](https://quantigre.hypotheses.org/) du laboratoire Pacte.
 
 ## PROGRAMME
 
