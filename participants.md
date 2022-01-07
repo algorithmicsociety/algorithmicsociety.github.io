@@ -7,14 +7,12 @@ navigation: true
 details:    true
 
 date:   		2020-02-17
-excerpt: 		"Les participants à la chaire et leurs projets de recherche"
+excerpt: 		"La chaire est un espace de travail en commun partagé par des chercheur•es et enseignant•es-chercheur•es de l'Université Grenoble Alpes principalement. Elle accueille aussi des chercheur•es post-doctorant•es et des doctorant•es sur des projets de recherche portés par ses membres ainsi que des étudiant•es de Master contribuant à ces projets."
 gradient: 	2
 image: 			header-1.jpg
 
 ---
 
-**Isabelle Allegret** (UGA / Citizen Campus). Isabelle Allegret dirige le programme Citizen Campus qui forme des étudiants au débat public sur des grands enjeux des sciences en société [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/). Contact : [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
-<hr>
 **Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin est Professeur de sociologie. Il coordonne les activités de la chaire et est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. [Plus d'infos](gillesbastin.github.io/). Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
 **Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine Bourgeois est Maître de conférences de science politique. Elle travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. [Plus d'infos](https://www.pacte-grenoble.fr/membres/marine-bourgeois). Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
@@ -22,8 +20,6 @@ image: 			header-1.jpg
 **Sylvain Bouveret** (Grenoble-INP / LIG). Sylvain Bouveret est Maître de conférences en informatique. Il travaille sur le choix social computationnel et les algorithmes d'allocation de ressources. [Plus d'infos](http://recherche.noiraudes.net/fr/). Contact : [sylvain.bouveret@imag.fr](sylvain.bouveret@imag.fr).
 <hr>
 **Vincent Bullich** (Université Grenoble Alpes / Gresec). Vincent Bullich est Maître de conférences en sciences de l'information et de la communication. Il travaille sur les algorithmes de recommandation et les régimes numériques de visibilité des contenus culturels. [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/vincent-bullich-533174.kjsp). Contact : [vincent.bullich@univ-grenoble-alpes.fr](vincent.bullich@univ-grenoble-alpes.fr).
-<hr>
-**Nicolas Douay** (Université Grenoble Alpes / Pacte). Nicolas Douay est Professeur d'urbanisme. Il travaille sur le recours à l'intelligenceartificielle dans le planning urbain. [Plus d'infos](https://www.pacte-grenoble.fr/membres/nicolas-douay). Contact : [nicolas.douay@univ-grenoble-alpes.fr](nicolas.douay@univ-grenoble-alpes.fr).
 <hr>
 **Laurence Dumoulin** (CNRS / Pacte), Laurence Dumoulin est Chargée de recherche au CNRS. Elle travaille sur l'innovation dans la justice et les expérimentations françaises en matière de justice prédictive. [Plus d'infos](https://www.pacte-grenoble.fr/membres/laurence-dumoulin). Contact : [laurence.dumoulin@umrpacte.fr](laurence.dumoulin@umrpacte.fr).
 <hr>
