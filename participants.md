@@ -7,7 +7,7 @@ navigation: true
 details:    true
 
 date:   		2020-02-17
-excerpt: 		"La chaire est un espace de travail en commun partagé par des chercheur•es et enseignant•es-chercheur•es de l'Université Grenoble Alpes principalement. Elle accueille aussi des chercheur•es post-doctorant•es et des doctorant•es sur des projets de recherche portés par ses membres ainsi que des étudiant•es de Master contribuant à ces projets."
+excerpt: 		"La chaire coordonne le travail de chercheur•es et enseignant•es-chercheur•es de l'Université Grenoble Alpes principalement. Elle accueille aussi des chercheur•es post-doctorant•es et des doctorant•es sur des projets de recherche portés par ses membres ainsi que des étudiant•es de Master contribuant à ces projets."
 gradient: 	2
 image: 			header-1.jpg
 
