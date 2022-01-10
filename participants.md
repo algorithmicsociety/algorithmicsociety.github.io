@@ -41,15 +41,15 @@ image: 			header-1.jpg
 
 **Maria Castaldo** (Doctorante GIPSA-LAB et CIS). Maria Castaldo travaille sur la modélisation des phénomènes de bulles sur les réseaux sociaux, particulièrement YouTube. Sa thèse est supervisée par Paolo Frasca (Gipsa-Lab) et Tommaso Venturini (CIS). Contact : [maria.castaldo@grenoble-inp.fr](maria.castaldo@grenoble-inp.fr).
 <hr>
-**Guillaume Le Lay** (Doctorant Pacte). Guillaume Le Lay travaille sur la socialisation des futur•es ingénieur•es en IA au code informatique. Il réalise notamment une observation participante dans des Masters en data science et intelligence artificielle. Contact : [guillaume.le-lay@umrpacte.fr](guillaume.le-lay@umrpacte.fr).
+**Guillaume Le Lay** (Doctorant Pacte). Guillaume Le Lay travaille sur la socialisation des futur•es ingénieur•es en IA au code informatique. Il réalise notamment une observation participante dans des Masters en data science et intelligence artificielle. Sa thèse est supervisée par Séverine Louvel et Gilles Bastin. Contact : [guillaume.le-lay@umrpacte.fr](guillaume.le-lay@umrpacte.fr).
 <hr>
-**Anastasia Magat** (Doctorante Pacte). Anastasia Magat travaille sur la médiatisation des banlieues en France sur les réseaux sociaux. Contact : [anastasia.magat@umrpacte.fr](anastasia.magat@umrpacte.fr).
+**Anastasia Magat** (Doctorante Pacte). Anastasia Magat travaille sur la médiatisation des banlieues en France sur les réseaux sociaux. Sa thèse est supervisée par Gilles Bastin. Contact : [anastasia.magat@umrpacte.fr](anastasia.magat@umrpacte.fr).
 <hr>
-**Marie Ghis-Malfilâtre**
+**Marie Ghis-Malfilâtre** (Post-Doctorante Pacte). Marie Ghis-Malfilâtre travaille sur le recours à l'intelligence artificielle dans le monde de la médecine. Son post-doctorat est supervisé par Séverine Louvel.
 <hr>
-**Jérôme Pacouret**
+**Jérôme Pacouret** (Post-Doctorant Pacte). Jérôme Pacouret travaille sur le recours aux plateformes des réseaux sociaux et à leurs algorithmes dans les médias en France. Son post-doctorat est supervisé par Emmanuel Marty et Gilles Bastin dans le cadre du projet FeedingBias.
 <hr>
-**Myrtille Picaud**
+**Myrtille Picaud** (Post-Doctorante Pacte). Myrtille Picaud travaille sur le recours à l'intelligence artificielle dans les activités de la police et de la gendarmerie. Son post-doctorat est supervisé par Laurence Dumoulin et Thierry Delpeuch.
 <hr>
 **Ange Richard** (Doctorante Pacte et LIG). Ange Richard travaille sur les écarts de représentation entre femmes et hommes dans les médias à partir de méthodes issues du Traitement Automatique des Langues et d'une enquête par entretiens dans plusieurs rédactions de médias. Sa thèse est supervisée par Gilles Bastin (Pacte) et François Portet (LIG & Chaire Langage et Intelligence Artificielle de MIAI). Contact : [richarag@univ-grenoble-alpes.fr](richarag@univ-grenoble-alpes.fr).
 
