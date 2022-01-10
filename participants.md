@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-## Membres permanents
+# Membres permanents
 
 **Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin est Professeur de sociologie. Il coordonne les activités de la chaire et est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. [Plus d'infos](gillesbastin.github.io/). Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
@@ -37,12 +37,23 @@ image: 			header-1.jpg
 <hr>
 **Nathalie Walczak** (UGA / Gresec). Nathalie Walczak est Maître de conférences en sciences de l'information et de la communication. Elle travaille sur le débat public sur l'IA en France (avec Emmanuel Marty). [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/nathalie-walczak-534293.kjsp). Contact : [nathalie.walczak@univ-grenoble-alpes.fr](nathalie.walczak@univ-grenoble-alpes.fr).
 
-## Post-doctorant•es et doctorant•es
+# Post-doctorant•es et doctorant•es
+
+**Guillaume Le Lay** (Doctorant Pacte). Guillaume Le Lay travaille sur la socialisation des futur•es ingénieur•es en IA au code informatique. Il réalise notamment une observation participante dans des Masters en data science et intelligence artificielle. Contact : [guillaume.le-lay@umrpacte.fr](guillaume.le-lay@umrpacte.fr).
+<hr>
+**Anastasia Magat** (Doctorante Pacte). Anastasia Magat travaille sur la médiatisation des banlieues en France sur les réseaux sociaux. Contact : [anastasia.magat@umrpacte.fr](anastasia.magat@umrpacte.fr).
+<hr>
+**Marie Ghis-Malfilâtre**
+<hr>
+**Jérôme Pacouret**
+<hr>
+**Myrtille Picaud**
+<hr>
+**Ange Richard** (Doctorante Pacte et LIG). Ange Richard travaille sur les écarts de représentation entre femmes et hommes dans les médias à partir de méthodes issues du Traitement Automatique des Langues et d'une enquête par entretiens dans plusieurs rédactions de médias. Sa thèse est supervisée par Gilles Bastin (Pacte) et François Portet (LIG & Chaire Langage et Intelligence Artificielle de MIAI).
+
+# Étudiant•es de Master
 
 **Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
 <hr>
-
-## Étudiant•es de Master
-
 **Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani a été assistante de recherche avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
 <hr>
