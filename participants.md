@@ -39,6 +39,8 @@ image: 			header-1.jpg
 
 # Post-doctorant•es et doctorant•es
 
+**Maria Castaldo** (Doctorante GIPSA-LAB et CIS). Maria Castaldo travaille sur la modélisation des phénomènes de bulles sur les réseaux sociaux, particulièrement YouTube. Sa thèse est supervisée par Paolo Frasca (Gipsa-Lab) et Tommaso Venturini (CIS). Contact : [maria.castaldo@grenoble-inp.fr](maria.castaldo@grenoble-inp.fr).
+<hr>
 **Guillaume Le Lay** (Doctorant Pacte). Guillaume Le Lay travaille sur la socialisation des futur•es ingénieur•es en IA au code informatique. Il réalise notamment une observation participante dans des Masters en data science et intelligence artificielle. Contact : [guillaume.le-lay@umrpacte.fr](guillaume.le-lay@umrpacte.fr).
 <hr>
 **Anastasia Magat** (Doctorante Pacte). Anastasia Magat travaille sur la médiatisation des banlieues en France sur les réseaux sociaux. Contact : [anastasia.magat@umrpacte.fr](anastasia.magat@umrpacte.fr).
@@ -49,7 +51,7 @@ image: 			header-1.jpg
 <hr>
 **Myrtille Picaud**
 <hr>
-**Ange Richard** (Doctorante Pacte et LIG). Ange Richard travaille sur les écarts de représentation entre femmes et hommes dans les médias à partir de méthodes issues du Traitement Automatique des Langues et d'une enquête par entretiens dans plusieurs rédactions de médias. Sa thèse est supervisée par Gilles Bastin (Pacte) et François Portet (LIG & Chaire Langage et Intelligence Artificielle de MIAI).
+**Ange Richard** (Doctorante Pacte et LIG). Ange Richard travaille sur les écarts de représentation entre femmes et hommes dans les médias à partir de méthodes issues du Traitement Automatique des Langues et d'une enquête par entretiens dans plusieurs rédactions de médias. Sa thèse est supervisée par Gilles Bastin (Pacte) et François Portet (LIG & Chaire Langage et Intelligence Artificielle de MIAI). Contact : [richarag@univ-grenoble-alpes.fr](richarag@univ-grenoble-alpes.fr).
 
 # Étudiant•es de Master
 
