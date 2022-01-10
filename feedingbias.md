@@ -7,7 +7,7 @@ navigation: false
 details:    true
 
 date:   		2022-01-10
-excerpt: 		"Discours et pratiques autour du jugement équipé d’algorithmes de traitement de décisions de justice"
+excerpt: 		"Une approche mixte et multi-plateformes de l'exposition aux médias sur les réseaux sociaux "
 gradient: 	2
 image: 			header-1.jpg
 
