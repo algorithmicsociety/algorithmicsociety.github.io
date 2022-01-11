@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"Le public et ses algorithmes"
+title:  		"Le public et ses algorithmes (recension)"
 type:			  post
 navigation: false
 details:		  true
