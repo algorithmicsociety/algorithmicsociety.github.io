@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"Le public et ses algorithmes (recension)"
+title:  		"Le public et ses algorithmes : un commentaire sur Metrics at Work (Angèle Christin, Princeton University Press)"
 type:			  post
 navigation: false
 details:		  true
