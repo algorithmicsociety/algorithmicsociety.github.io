@@ -7,8 +7,8 @@ navigation: true
 details:    true
 
 date:   		2020-10-27
-excerpt: 		"Le séminaire de la Chaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage) mais étant donné le contexte 
-il est préférable de vérifier la localisation au dernier moment sur le site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire ([@AlgoSociety](https://twitter.com/AlgoSociety))."
+excerpt: 		"Le séminaire de la Chaire a lieu en règle générale au laboratoire Pacte (salle de réunion du 1er étage). Dans le contexte pandémique,
+il est préférable de vérifier la localisation au dernier moment sur ce site (à la rubrique Actualités) ou sur le fil Twitter de la Chaire (@AlgoSociety)."
 gradient: 	2
 image: 			header-1.jpg
 
