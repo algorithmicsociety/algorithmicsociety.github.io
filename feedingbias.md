@@ -23,6 +23,6 @@ Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'uti
 
 Vous pouvez participer à cette enquête en cliquant sur le bouton ci-dessous.
 
-<img src="images/Bouton-Je-Participe.png"></img>
+<center><img src="images/Bouton-Je-Participe.png"></img></center>
 
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du RGPD. L'enquête a fait l'objet d'une inscription au registre des traitements du CNRS. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
