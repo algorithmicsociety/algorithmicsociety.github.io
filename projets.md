@@ -13,6 +13,7 @@ image: 			header-1.jpg
 
 ---
 
+- [GenderedNews : mesurer les inégalités de genre dans les médias français](/genderednews.md) (**Gilles Bastin, Ange Richard, François Portet**)
 - [FeedingBias : une approche mixte et multi-plateformes de l'exposition aux médias sur les réseaux sociaux](/feedingbias.md) (**Gilles Bastin, Maria Castaldo, Paolo Frasca, Oana Goga, Emmanuel Marty, Jérôme Pacouret**)
 - [Justice prédictive : Discours et pratiques autour du jugement équipé d’algorithmes de traitement de décisions de justice](/justice-predictive.md) (**Laurence Dumoulin**)
 - [Les professionnels des algorithmes : enquête sociologique sur les travailleurs invisibles des plateformes numériques](/professionnels-invisibles-des-algorithmes.md) (**Jean Finez**)
