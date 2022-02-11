@@ -14,7 +14,7 @@ image: 			  header-1.jpg
 
 ---
 
-Deux nouveaux projets post-doc commencent ce moi-ci dans la Chaire Société Algorithmique.
+Deux nouveaux projets post-doc commencent ce mois-ci dans la Chaire Société Algorithmique.
 
 Marie Ghis-Malfilâtre travaille avec Séverine Louvel sur le recours à l’intelligence artificielle dans le monde de la médecine généraliste. Son terrain est réalisé avec SOS Médecins qui expérimente actuellement un algorithme de prédiction du risque d'hospitalisation pour ses praticiens.
 
