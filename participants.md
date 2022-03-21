@@ -57,8 +57,11 @@ image: 			header-1.jpg
 
 **Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque a été assistant de recherche de la chaire avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France (2020-2021).
 <hr>
-**Sandra Kolor** (Master ICPM / Univ. Grenoble Alpes). Sandra Kolor est assistante de recherche de la chaire pour le projet FeedingBias (2021-2022).<hr>
-**Gwladys Pégon** (Master SCEN / Univ. Grenoble Alpes). Gwladys Pégon est assistante de recherche de la chaire pour le projet Twittonomics (2021-2022).<hr>
-**Noémie Piolat** (3ème année Sciences Po Grenoble). Noémie Piolat est assistante de recherche de la chaire pour le projet GenderedNews (2021-2022).<hr>
+**Sandra Kolor** (Master ICPM / Univ. Grenoble Alpes). Sandra Kolor est assistante de recherche de la chaire pour le projet FeedingBias (2021-2022).
+<hr>
+**Gwladys Pégon** (Master SCEN / Univ. Grenoble Alpes). Gwladys Pégon est assistante de recherche de la chaire pour le projet Twittonomics (2021-2022).
+<hr>
+**Noémie Piolat** (3ème année Sciences Po Grenoble). Noémie Piolat est assistante de recherche de la chaire pour le projet GenderedNews (2021-2022).
+<hr>
 **Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani a été assistante de recherche avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP (2019-2020).
 <hr>
