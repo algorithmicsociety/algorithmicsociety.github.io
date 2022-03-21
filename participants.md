@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-# Membres permanents
+# Membres permanent•es
 
 **Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin est Professeur de sociologie. Il coordonne les activités de la chaire et est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. [Plus d'infos](gillesbastin.github.io/). Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
@@ -53,9 +53,12 @@ image: 			header-1.jpg
 <hr>
 **Ange Richard** (Doctorante Pacte et LIG). Ange Richard travaille sur les écarts de représentation entre femmes et hommes dans les médias à partir de méthodes issues du Traitement Automatique des Langues et d'une enquête par entretiens dans plusieurs rédactions de médias. Sa thèse est supervisée par Gilles Bastin (Pacte) et François Portet (LIG & Chaire Langage et Intelligence Artificielle de MIAI). Contact : [richarag@univ-grenoble-alpes.fr](richarag@univ-grenoble-alpes.fr).
 
-# Étudiant•es de Master
+# Étudiant•es
 
-**Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
+**Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque a été assistant de recherche de la chaire avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France (2020-2021).
 <hr>
-**Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani a été assistante de recherche avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
+**Sandra Kolor** (Master ICPM / Univ. Grenoble Alpes). Sandra Kolor est assistante de recherche de la chaire pour le projet FeedingBias (2021-2022).<hr>
+**Gwladys Pégon** (Master SCEN / Univ. Grenoble Alpes). Gwladys Pégon est assistante de recherche de la chaire pour le projet Twittonomics (2021-2022).<hr>
+**Noémie Piolat** (3ème année Sciences Po Grenoble). Noémie Piolat est assistante de recherche de la chaire pour le projet GenderedNews (2021-2022).<hr>
+**Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani a été assistante de recherche avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP (2019-2020).
 <hr>
