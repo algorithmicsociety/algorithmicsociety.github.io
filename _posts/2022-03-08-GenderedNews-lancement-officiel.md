@@ -29,7 +29,7 @@ Le site web du projet permet de consulter l’ensemble des résultats des mesure
  
 Plus d’informations :
 
-Site web de GenderedNews : (https://gendered-news.imag.fr/)[https://gendered-news.imag.fr/]
+Site web de GenderedNews : [https://gendered-news.imag.fr/](https://gendered-news.imag.fr/)
 Sur Twitter : @genderednews
 Présentation et méthodologie du projet : https://arxiv.org/pdf/2202.05682.pdf
  
