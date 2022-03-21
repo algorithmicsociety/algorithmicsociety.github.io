@@ -14,7 +14,7 @@ image: 			  header-1.jpg
 
 ---
 
-# Lancement officiel de GenderedNews : un tableau de bord hebdomadaire pour mesurer les inégalités de représentation des femmes et des hommes dans les principaux journaux français
+## Lancement officiel de GenderedNews : un tableau de bord hebdomadaire pour mesurer les inégalités de représentation des femmes et des hommes dans les principaux journaux français
 
 Un projet des chaires « Société algorithmique » et « Intelligence Artificielle & Langage » de l’Institut MIAI (Univ. Grenoble Alpes)
  
@@ -29,7 +29,7 @@ Le site web du projet permet de consulter l’ensemble des résultats des mesure
  
 Plus d’informations :
 
-Site web de GenderedNews : https://gendered-news.imag.fr/
+Site web de GenderedNews : (https://gendered-news.imag.fr/)[https://gendered-news.imag.fr/]
 Sur Twitter : @genderednews
 Présentation et méthodologie du projet : https://arxiv.org/pdf/2202.05682.pdf
  
