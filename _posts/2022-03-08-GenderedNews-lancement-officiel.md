@@ -29,12 +29,12 @@ Le site web du projet permet de consulter l’ensemble des résultats des mesure
  
 Plus d’informations :
 
-Site web de GenderedNews : [https://gendered-news.imag.fr/](https://gendered-news.imag.fr/)
-Sur Twitter : @genderednews
-Présentation et méthodologie du projet : https://arxiv.org/pdf/2202.05682.pdf
+Site web de GenderedNews : [https://gendered-news.imag.fr/](https://gendered-news.imag.fr/)<br>
+Sur Twitter : [@genderednews](https://twitter.com/genderednews)<br>
+Présentation et méthodologie du projet : [https://arxiv.org/pdf/2202.05682.pdf](https://arxiv.org/pdf/2202.05682.pdf)
  
 Contacts :
 
-Gilles Bastin, Professeur de sociologie à l’Institut d’Études Politiques de l’Université Grenoble Alpes et chercheur au laboratoire Pacte, gilles.bastin@iepg.fr,
-François Portet, Professeur d’informatique à l’Université Grenoble Alpes et chercheur au laboratoire d’informatique de Grenoble, francois.portet@imag.fr,
-Ange Richard, doctorante à l’Université Grenoble Alpes, ange.richard@univ-grenoble-alpes.fr
+Gilles Bastin, Professeur de sociologie à l’Institut d’Études Politiques de l’Université Grenoble Alpes et chercheur au laboratoire Pacte, [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr)<br>
+François Portet, Professeur d’informatique à l’Université Grenoble Alpes et chercheur au laboratoire d’informatique de Grenoble, [francois.portet@imag.fr](mailto:francois.portet@imag.fr)<br>
+Ange Richard, doctorante à l’Université Grenoble Alpes, [ange.richard@univ-grenoble-alpes.fr](ange.richard@univ-grenoble-alpes.fr)
