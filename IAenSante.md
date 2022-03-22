@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		IAenSanté
+title:  		IA en Santé
 type:			  page
 navigation: false
 details:    true
