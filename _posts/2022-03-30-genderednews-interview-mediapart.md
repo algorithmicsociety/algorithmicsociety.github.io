@@ -16,7 +16,9 @@ image: 			  header-1.jpg
 
 ## GenderedNews : une interview de Gilles Bastin, François Portet et Ange Richard dans Mediapart
 
-Gilles Bastin, François Portet et Ange Richard ont été interviewés par Mediapart à propos du projet GenderedNews. Vous pouvez lire l'interview [sur le site du journal](https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire).
+Gilles Bastin, François Portet et Ange Richard ont été interviewés par Mediapart le 25 mars à propos du projet GenderedNews.
+
+Vous pouvez lire l'interview [sur le site du journal](https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire).
  
  
 Plus d’informations :
