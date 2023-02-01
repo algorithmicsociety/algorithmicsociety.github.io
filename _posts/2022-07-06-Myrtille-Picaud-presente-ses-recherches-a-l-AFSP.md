@@ -1,0 +1,1 @@
+Myrtille Picaud, avec Florent Castagnino (MCF à l'IMT Atlantique), « Les logiques du risque dans l’action publique de la sécurité numérique », Session thématique 16 « Gouverner des "groupes à risques". Catégorisations et discriminations dans l’action publique », 16e Congrès de l’AFSP, 6 juillet 2022, Lille.  
