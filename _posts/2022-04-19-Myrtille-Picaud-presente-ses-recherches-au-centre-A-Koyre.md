@@ -1,0 +1,1 @@
+Myrtille Picaud, « Surveillance sans frontières ? Enjeux politiques, économiques et urbains du développement des dispositifs numériques de sécurité », séminaire « Gouverner le progrès et ses dégâts. Histoire et sciences sociales », Centre Alexandre Koyré, 19 avril 2022, Paris. 
