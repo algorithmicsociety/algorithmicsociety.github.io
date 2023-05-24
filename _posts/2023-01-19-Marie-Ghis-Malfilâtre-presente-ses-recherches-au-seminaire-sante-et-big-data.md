@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"Présentation des recherches de Marie Ghis-Malfilatre au séminaire Santé et Big Data"
+title:  		"Présentation des recherches de Marie Ghis Malfilatre au séminaire Santé et Big Data"
 type:			  post
 navigation: false
 details:		  true
