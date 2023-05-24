@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-**Chercheur•es impliqué•es : Marie-Aurore Ghis-Malfilâtre et Séverine Louvel**
+**Chercheur•es impliqué•es : Marie-Aurore Ghis Malfilatre et Séverine Louvel**
 
 De nombreux acteurs – politiques, médicaux et industriels – estiment que l’intelligence artificielle est appelée à jouer un rôle majeur dans le monde de la santé au bénéfice des professionnels et des patients. À la remise du rapport Villani fin mars 2018, le Président de la République a indiqué, dans cette perspective, que la santé serait un des secteurs prioritaires pour l’essor de l’intelligence artificielle. Le conseil national de l’ordre des médecins a produit dans ce contexte un livre blanc dans lequel il exprime ses attentes vis-à-vis de l’IA, qui est perçue comme une source d’amélioration de l’efficience et de la qualité de la prise en charge des patients, mais aussi comme une menace pour les libertés individuelles, l’égalité dans l’accès et les parcours de soins et pour la relation de soins qui risquerait d’être déshumanisée.
 
