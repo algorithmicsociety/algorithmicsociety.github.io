@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"Présentation des recherches de Marie Ghis-Malfilâtre à l'EHESS"
+title:  		"Présentation des recherches de Marie Ghis Malfilatre à l'EHESS"
 type:			  post
 navigation: false
 details:		  true
@@ -14,7 +14,7 @@ image: 			  header-1.jpg
 
 ---
 
-Marie Ghis-Malfilâtre a présenté son travail post-doctoral sur le recours à l'IA dans la pratique des médecins de SOS médecins lors de la
+Marie Ghis Malfilatre a présenté son travail post-doctoral sur le recours à l'IA dans la pratique des médecins de SOS médecins lors de la
 Journées d'étude internationales "L'IA au prisme des sciences sociales", EHESS, Paris, 13-14 octobre 2022.
 
 Sa communication était intitulée "« Pour que le moins bon des médecins soit quand même bon »,
