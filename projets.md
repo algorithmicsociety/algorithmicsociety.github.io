@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-- [IA en Santé](/IAenSante.md) (**Marie-Aurore Ghis-Malfilâtre et Séverine Louvel**)
+- [IA en Santé](/IAenSante.md) (**Marie-Aurore Ghis Malfilatre et Séverine Louvel**)
 - [GenderedNews : mesurer les inégalités de genre dans les médias français](/genderednews.md) (**Gilles Bastin, Ange Richard, François Portet**)
 - [FeedingBias : une approche mixte et multi-plateformes de l'exposition aux médias sur les réseaux sociaux](/feedingbias.md) (**Gilles Bastin, Maria Castaldo, Paolo Frasca, Oana Goga, Emmanuel Marty, Jérôme Pacouret**)
 - [Learning Machine Learning](/learning-ml.md) (**Guillaume Le Lay, Gilles Bastin et Séverine Louvel**)
