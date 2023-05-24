@@ -45,7 +45,7 @@ image: 			header-1.jpg
 <hr>
 **Anastasia Magat** (Doctorante Pacte). Anastasia Magat travaille sur la médiatisation des banlieues en France sur les réseaux sociaux. Sa thèse est supervisée par Gilles Bastin. Contact : [anastasia.magat@umrpacte.fr](anastasia.magat@umrpacte.fr).
 <hr>
-**Marie Ghis Malfilatre** (Post-Doctorante Pacte). Marie Ghis-Malfilâtre travaille sur le recours à l'intelligence artificielle dans le monde de la médecine. Son post-doctorat est supervisé par Séverine Louvel.
+**Marie Ghis Malfilatre** (Post-Doctorante Pacte). Marie Ghis Malfilatre travaille sur le recours à l'intelligence artificielle dans le monde de la médecine. Son post-doctorat est supervisé par Séverine Louvel.
 <hr>
 **Jérôme Pacouret** (Post-Doctorant Pacte). Jérôme Pacouret travaille sur le recours aux plateformes des réseaux sociaux et à leurs algorithmes dans les médias en France. Son post-doctorat est supervisé par Emmanuel Marty et Gilles Bastin dans le cadre du projet FeedingBias.
 <hr>
