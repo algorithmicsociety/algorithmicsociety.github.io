@@ -22,14 +22,25 @@ Pour plus d'informations, voir le [site web du projet](https://gendered-news.ima
 ---
 
 
-Chercheur•es impliqué•es :
+## Chercheur•es impliqué•es
+
 Gilles Bastin
 François Portet
 Ange Richard
 
 ---
 
-Publications :
+## Actualité du projet
+
+- 25 mars 2022 : [« La société reflétée par les médias n’est pas du tout paritaire »](https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire), entretien avec Lénaïg Brédoux dans Mediapart.
+
+- 6 avril 2022 : [« Un algo mesure les inégalités de genre dans la presse depuis un an et, surprise, rien ne bouge »](https://www.numerama.com/politique/903959-un-algo-mesure-les-inegalites-de-genre-dans-la-presse-depuis-un-an-et-surprise-rien-ne-bouge.html), article dans Numerama.
+
+- 10 mai 2022 : Présentation du projet aux Assises du Journalisme de Tours.
+
+- 17 mai 2022 : [« Gendered News, le site qui mesure l’effacement des femmes dans les médias »](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php), article dans Telerama.
+
+## Publications
 
 1. Gilles Bastin. « Gender Imbalance in the Media: Time Lag or Hysteresis?—French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) ». The International Journal of Press/Politics, 2022. [https://shs.hal.science/halshs-03885693](https://shs.hal.science/halshs-03885693).
 2. Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », 2022. [https://arxiv.org/abs/2202.05682v2](https://arxiv.org/abs/2202.05682v2).
