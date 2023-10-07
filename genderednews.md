@@ -33,12 +33,10 @@ Ange Richard
 ## Actualité du projet
 
 - 25 mars 2022 : [« La société reflétée par les médias n’est pas du tout paritaire »](https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire), entretien avec Lénaïg Brédoux dans Mediapart.
-
 - 6 avril 2022 : [« Un algo mesure les inégalités de genre dans la presse depuis un an et, surprise, rien ne bouge »](https://www.numerama.com/politique/903959-un-algo-mesure-les-inegalites-de-genre-dans-la-presse-depuis-un-an-et-surprise-rien-ne-bouge.html), article dans Numerama.
-
-- 10 mai 2022 : Présentation du projet aux Assises du Journalisme de Tours.
-
+- 10 mai 2022 : [Présentation du projet aux Assises du Journalisme de Tours](https://www.youtube.com/watch?v=zHuSPNGnXsE).
 - 17 mai 2022 : [« Gendered News, le site qui mesure l’effacement des femmes dans les médias »](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php), article dans Telerama.
+- 11 juillet 2022 : ["La voix des femmes inaudible dans les médias"](https://www.liberation.fr/idees-et-debats/tribunes/la-voix-des-femmes-inaudible-dans-les-medias-20220711_T2CLQPFHTNAAPO6F4JUCNHCLYU/)
 
 ## Publications
 
