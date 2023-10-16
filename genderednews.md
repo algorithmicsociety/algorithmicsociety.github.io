@@ -37,15 +37,15 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
 - 11 juillet 2022 : [« La voix des femmes inaudible dans les médias »](https://www.liberation.fr/idees-et-debats/tribunes/la-voix-des-femmes-inaudible-dans-les-medias-20220711_T2CLQPFHTNAAPO6F4JUCNHCLYU/)
 - Octobre 2023 - Octobre 2025 : GenderedNews financé pour deux ans par le programme IRGA de l'IGA (100.000 €)
 
-<div class="home-page">
-        {% for post in site.posts tags: genderednews offset: site.pagination + 1 %}
-        <ul>
+{% for post in site.categories.genderednews %}
+        {% for post in site.posts offset: site.pagination + 1 %}
+
         <li>
             <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
-        </ul>
+
         {% endfor %}
-</div>
+{% endfor %}
 
 ## Publications
 
