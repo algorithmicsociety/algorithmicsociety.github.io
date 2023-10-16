@@ -24,11 +24,7 @@ Pour plus d'informations, voir le [site web du projet](https://gendered-news.ima
 
 ## Chercheur•es impliqué•es
 
-Gilles Bastin, Professeur de sociologie, Pacte.
-
-François Portet, Professeur d'informatique, LIG.
-
-Ange Richard, doctorante à Pacte et au LIG
+Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur d'informatique, LIG • Ange Richard, doctorante à Pacte et au LIG
 
 ---
 
@@ -40,6 +36,16 @@ Ange Richard, doctorante à Pacte et au LIG
 - 17 mai 2022 : [« Gendered News, le site qui mesure l’effacement des femmes dans les médias »](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php), article dans Telerama.
 - 11 juillet 2022 : [« La voix des femmes inaudible dans les médias »](https://www.liberation.fr/idees-et-debats/tribunes/la-voix-des-femmes-inaudible-dans-les-medias-20220711_T2CLQPFHTNAAPO6F4JUCNHCLYU/)
 - Octobre 2023 - Octobre 2025 : GenderedNews financé pour deux ans par le programme IRGA de l'IGA (100.000 €)
+
+<div class="home-page">
+        {% for post in site.posts offset: site.pagination + 1 %}
+        <ul>
+        <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        </ul>
+        {% endfor %}
+</div>
 
 ## Publications
 
