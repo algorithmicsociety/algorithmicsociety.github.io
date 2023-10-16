@@ -16,9 +16,9 @@ image: 			  header-1.jpg
 
 ## GenderedNews : une interview d'Ange Richard dans Numerama
 
-Gilles Bastin, François Portet et Ange Richard ont été interviewés par Mediapart le 25 mars à propos du projet GenderedNews.
+Ange Richard a été interviewée par Numerama à propos du projet GenderedNews.
 
-Vous pouvez lire l'interview [sur le site du journal]([https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire](https://www.numerama.com/politique/903959-un-algo-mesure-les-inegalites-de-genre-dans-la-presse-depuis-un-an-et-surprise-rien-ne-bouge.html)).
+Vous pouvez lire l'interview [sur le site du journal](https://www.numerama.com/politique/903959-un-algo-mesure-les-inegalites-de-genre-dans-la-presse-depuis-un-an-et-surprise-rien-ne-bouge.html)).
  
  
 Plus d’informations :
