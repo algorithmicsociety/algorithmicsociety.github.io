@@ -38,7 +38,9 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
 - Octobre 2023 - Octobre 2025 : GenderedNews financé pour deux ans par le programme IRGA de l'IGA (100.000 €)
 
 <ul>
+        
 {% for post in site.categories.genderednews %}
+        
         {% for post in site.posts offset: site.pagination + 1 %}
 
         <li>
@@ -46,8 +48,11 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
         </li>
 
         {% endfor %}
+
 {% endfor %}
+
 </ul>
+
 ## Publications
 
 1. Gilles Bastin. « Gender Imbalance in the Media: Time Lag or Hysteresis?—French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) ». The International Journal of Press/Politics, 2022. [https://shs.hal.science/halshs-03885693](https://shs.hal.science/halshs-03885693).
