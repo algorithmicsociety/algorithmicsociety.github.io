@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"GenderedNews : une interview de Gilles Bastin, François Portet et Ange Richard dans Mediapart"
+title:  		« La société reflétée par les médias n’est pas du tout paritaire », entretien avec Lénaïg Brédoux dans Mediapart
 type:			  post
 navigation: false
 details:		  true
@@ -14,7 +14,7 @@ image: 			  header-1.jpg
 
 ---
 
-## GenderedNews : une interview de Gilles Bastin, François Portet et Ange Richard dans Mediapart
+## « La société reflétée par les médias n’est pas du tout paritaire », entretien avec Lénaïg Brédoux dans Mediapart.
 
 Gilles Bastin, François Portet et Ange Richard ont été interviewés par Mediapart le 25 mars à propos du projet GenderedNews.
 
