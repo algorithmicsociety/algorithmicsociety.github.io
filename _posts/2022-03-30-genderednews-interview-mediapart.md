@@ -8,7 +8,7 @@ details:		  true
 
 date:   		2022-03-30
 excerpt: 		""
-categories:   News
+categories:   [News, genderednews]
 gradient: 		2
 image: 			  header-1.jpg
 
