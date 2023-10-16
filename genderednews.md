@@ -38,10 +38,8 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
 - Octobre 2023 - Octobre 2025 : GenderedNews financé pour deux ans par le programme IRGA de l'IGA (100.000 €)
 
 <ul class="post-list">
-        {% for post in site.categories.genderednews %}
-                {% for post in site.posts offset: site.pagination + 1 %}
-                        <li><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-                {% endfor %}
+        {% for post in site.categories.genderednews offset: site.pagination + 1 %}
+                <li><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
         {% endfor %}
 </ul>
 
