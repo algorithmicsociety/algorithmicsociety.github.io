@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"Gendered News, le site qui mesure l’effacement des femmes dans les médias" (Telerama)
+title:  		"Gendered News, le site qui mesure l’effacement des femmes dans les médias (Telerama)"
 type:			  post
 navigation: false
 details:		  true
