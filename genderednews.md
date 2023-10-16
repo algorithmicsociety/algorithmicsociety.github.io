@@ -37,6 +37,7 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
 - 11 juillet 2022 : [« La voix des femmes inaudible dans les médias »](https://www.liberation.fr/idees-et-debats/tribunes/la-voix-des-femmes-inaudible-dans-les-medias-20220711_T2CLQPFHTNAAPO6F4JUCNHCLYU/)
 - Octobre 2023 - Octobre 2025 : GenderedNews financé pour deux ans par le programme IRGA de l'IGA (100.000 €)
 
+<ul>
 {% for post in site.categories.genderednews %}
         {% for post in site.posts offset: site.pagination + 1 %}
 
@@ -46,7 +47,7 @@ Gilles Bastin, Professeur de sociologie, Pacte • François Portet, Professeur
 
         {% endfor %}
 {% endfor %}
-
+</ul>
 ## Publications
 
 1. Gilles Bastin. « Gender Imbalance in the Media: Time Lag or Hysteresis?—French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) ». The International Journal of Press/Politics, 2022. [https://shs.hal.science/halshs-03885693](https://shs.hal.science/halshs-03885693).
