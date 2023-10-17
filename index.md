@@ -22,4 +22,3 @@ La chaire Société algorithmique conduit des recherches sur le tournant algorit
 - [FeedingBias : une approche mixte et multi-plateformes de l'exposition aux médias sur les réseaux sociaux](/feedingbias.md) (**Gilles Bastin, Maria Castaldo, Paolo Frasca, Oana Goga, Emmanuel Marty, Jérôme Pacouret**)
 - [Learning Machine Learning](/learning-ml.md) (**Guillaume Le Lay, Gilles Bastin et Séverine Louvel**)
 - [Justice prédictive : Discours et pratiques autour du jugement équipé d’algorithmes de traitement de décisions de justice](/justice-predictive.md) (**Laurence Dumoulin**)
-- [Les professionnels des algorithmes : enquête sociologique sur les travailleurs invisibles des plateformes numériques](/professionnels-invisibles-des-algorithmes.md) (**Jean Finez**)
