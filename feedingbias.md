@@ -21,6 +21,8 @@ Notre objectif double. Nous voulons dans un premier temps comprendre l’influen
 
 Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube.
 
+Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du RGPD. L'enquête a fait l'objet d'une inscription au registre des traitements du CNRS. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
+
 ---
 
 ## Actualité du projet
@@ -30,16 +32,3 @@ Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'uti
                 <li><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
         {% endfor %}
 </ul>
-
-## Publications
-
-1. dd
-
----
-
-Vous pouvez participer à cette enquête en cliquant sur le bouton ci-dessous.
-
-<center><a href="
-https://enquetes-screen.msh-alpes.fr/index.php/997328?lang=fr"><img src="images/Bouton-Je-Participe.png"></a></center>
-
-Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du RGPD. L'enquête a fait l'objet d'une inscription au registre des traitements du CNRS. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
