@@ -21,6 +21,22 @@ Notre objectif double. Nous voulons dans un premier temps comprendre l’influen
 
 Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube.
 
+---
+
+## Actualité du projet
+
+<ul class="post-list">
+        {% for post in site.categories.feedingbias offset: site.pagination + 1 %}
+                <li><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+</ul>
+
+## Publications
+
+1. dd
+
+---
+
 Vous pouvez participer à cette enquête en cliquant sur le bouton ci-dessous.
 
 <center><a href="
