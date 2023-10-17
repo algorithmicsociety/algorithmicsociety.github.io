@@ -8,7 +8,7 @@ details:		  true
 
 date:   		2022-10-14
 excerpt: 		""
-categories:   News
+categories:   [News, learningml]
 gradient: 		2
 image: 			  header-1.jpg
 
