@@ -8,7 +8,7 @@ details:		  true
 
 date:   		2023-01-19
 excerpt: 		""
-categories:   News
+categories:   [News, iasante]
 gradient: 		2
 image: 			  header-1.jpg
 
