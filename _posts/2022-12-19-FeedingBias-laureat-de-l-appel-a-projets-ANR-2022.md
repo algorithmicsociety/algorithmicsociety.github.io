@@ -8,7 +8,7 @@ details:		  true
 
 date:   		2022-12-19
 excerpt: 		""
-categories:   News
+categories:   [News, feedingbias]
 gradient: 		2
 image: 			  header-1.jpg
 
