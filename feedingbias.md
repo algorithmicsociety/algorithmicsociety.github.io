@@ -15,7 +15,7 @@ image: 			header-1.jpg
 
 **Chercheur•es impliqué•es : Gilles Bastin, Maria Castaldo, Paolo Frasca, Oana Goga, Emmanuel Marty, Jérôme Pacouret**
 
-Le projet ANR FeedingBias vise à fournir des données et des outils analytiques pour une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations.
+Le projet FeedingBias vise à fournir des données et des outils analytiques pour une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations.
 
 Notre objectif double. Nous voulons dans un premier temps comprendre l’influence des caractéristiques sociodémographiques des utilisateurs des réseaux sociaux, de leur orientation politique et de leur niveau d'éducation algorithmique sur leur exposition à l’information, particulièrement dans le contexte de la campagne électorale pour l'élection présidentielle française de 2022. Nous voulons aussi mesurer la contribution de ces biais d'exposition et d'engagement sur la polarisation de la sphère publique.
 
