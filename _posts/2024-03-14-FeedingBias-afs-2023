@@ -1,16 +1,16 @@
  ---
 
-layout:			default
-title:  		"Les premiers résultats du projet présentés au Congrès de Lyon de l'Association française de sociologie"
-type:			  post
+layout: default
+title: "Les premiers résultats du projet présentés au Congrès de Lyon de l'Association française de sociologie"
+type: post
 navigation: false
-details:		  true
+details: true
 
-date:   		2024-03-14
-excerpt: 		""
-categories:   [News, feedingbias]
-gradient: 		2
-image: 			  header-1.jpg
+date: 2024-03-14
+excerpt: ""
+categories: [News, feedingbias]
+gradient: 2
+image:header-1.jpg
 
 ---
 
