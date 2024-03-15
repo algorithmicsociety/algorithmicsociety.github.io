@@ -18,7 +18,5 @@ Pourquoi et comment les usages des réseaux sociaux sont-ils inégalement distri
 
 Ces premiers résultats ont été présentés et discutés le 7 juillet 2023 au Congrès de Lyon de l'Association française de sociologie. Merci aux organisateur·ices du RT11 (Sociologie de la communication) et du RT14 (Sociologie des arts et de la culture). Les slides de notre communication sont [accessibles ici](/pdf/fb-slides-afs-2023.pdf)
 
-<object data="/pdf/fb-slides-afs-2023.pdf" height = "1200" width = "900" type='application/pdf'></object>
-
 L'analyse  détaillée de ces résultats paraitra au printemps 2024, dans la revue *Sociologie*.
 
