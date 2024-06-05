@@ -19,7 +19,7 @@ Notre objectif est double. Nous voulons dans un premier temps comprendre l’inf
 
 Le projet FeedingBias est basé sur une démarche de science participative. Les plateformes des réseaux sociaux comme Facebook ou Twitter refusent de plus en plus l'accès à leurs données aux chercheurs. Pour contourner cet obstacle, nous proposons à un large échantillon d'utilisateurs de ces réseaux de nous donner accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube. Afin de mieux les connaître, nous leur demandons aussi de répondre à quelques questions. Nous ne collectons que des informations sur l'accès à l'information médiatique, en aucun cas des données concernant les relations personnelles et la vie privée des individus. Vous pouvez aussi participer à cette enquête en cliquant sur le bouton ci-dessous :
 
-<a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60"></a>
+<a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60" class="center"></a>
 
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du Règlement Général pour la Protection des Données. L'enquête a fait l'objet d'une inscription au registre des traitements du Centre National de la Recherche Scientifique. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
