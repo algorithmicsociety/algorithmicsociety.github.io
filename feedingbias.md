@@ -19,6 +19,8 @@ Notre objectif est double. Nous voulons dans un premier temps comprendre l’inf
 
 Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube.
 
+<a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60"></a>
+
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du RGPD. L'enquête a fait l'objet d'une inscription au registre des traitements du CNRS. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
 ---
