@@ -13,15 +13,15 @@ image: 			header-1.jpg
 
 ---
 
-Le projet FeedingBias vise à fournir des données et des outils analytiques pour une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations.
+Le projet FeedingBias est financé par l'Agence Nationale de la Recherche. Il vise à fournir des données et des outils permettant une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations.
 
-Notre objectif est double. Nous voulons dans un premier temps comprendre l’influence des caractéristiques sociodémographiques des utilisateurs des réseaux sociaux, de leur orientation politique et de leur niveau d'éducation algorithmique sur leur exposition à l’information, particulièrement dans le contexte de la campagne électorale pour l'élection présidentielle française de 2022. Nous voulons aussi mesurer la contribution de ces biais d'exposition et d'engagement sur la polarisation de la sphère publique.
+Notre objectif est double. Nous voulons dans un premier temps comprendre l’influence des caractéristiques sociodémographiques des utilisateurs des réseaux sociaux, de leur orientation politique et de leur niveau d'éducation algorithmique sur leur exposition à l’information. Nous voulons aussi mesurer la contribution de ces biais d'exposition et d'engagement sur la polarisation de la sphère publique.
 
-Le projet FeedingBias est basé sur le recrutement d'un large échantillon d'utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube.
+Le projet FeedingBias est basé sur une démarche de science participative. Les plateformes des réseaux sociaux comme Facebook ou Twitter refusent de plus en plus l'accès à leurs données aux chercheurs. Pour contourner cet obstacle, nous proposons à un large échantillon d'utilisateurs de ces réseaux de nous donner accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube. Afin de mieux les connaître, nous leur demandons aussi de répondre à quelques questions. Nous ne collectons que des informations sur l'accès à l'information médiatique, en aucun cas des données concernant les relations personnelles et la vie privée des individus. Vous pouvez aussi participer à cette enquête en cliquant sur le bouton ci-dessous :
 
 <a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60"></a>
 
-Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du RGPD. L'enquête a fait l'objet d'une inscription au registre des traitements du CNRS. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
+Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du Règlement Général pour la Protection des Données. L'enquête a fait l'objet d'une inscription au registre des traitements du Centre National de la Recherche Scientifique. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
 ---
 
