@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-Le projet FeedingBias est financé par l'Agence Nationale de la Recherche. Il vise à fournir des données et des outils permettant une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations[^1].
+Le projet FeedingBias est financé par l'Agence Nationale de la Recherche. Il vise à fournir des données et des outils permettant une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations*.
 
 Le projet FeedingBias est basé sur une démarche de science participative. Les plateformes des réseaux sociaux comme Facebook ou Twitter refusent en effet de plus en plus l'accès à leurs données aux chercheurs. Pour contourner cet obstacle, nous proposons aux participants à cette enquête — en plus de répondre à quelques questions — de nous donner accès, de manière très contrôlée, à des informations sur leur activité sur Twitter, Instagram, Facebook et YouTube.
 
@@ -23,10 +23,10 @@ Nous ne collectons que des informations sur l'accès à l'information médiatiqu
 
 En contrepartie de votre participation à l'enquête
 
-[^1] : Notre objectif est double. Nous voulons dans un premier temps comprendre l’influence des caractéristiques sociodémographiques des individus, de leur orientation politique et de leur niveau d'éducation algorithmique sur leur exposition à l’information sur les réseaux sociaux (le fait de voir des informations circuler sur ces réseaux) et sur leur engagement avec l'information (le fait de liker, commenter ou reposter de l'information). Nous voulons aussi mesurer la contribution de ces biais d'exposition et d'engagement sur la polarisation de la sphère publique.
-
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du Règlement Général pour la Protection des Données. L'enquête a fait l'objet d'une inscription au registre des traitements du Centre National de la Recherche Scientifique. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
+_* Notre objectif est double. Nous voulons dans un premier temps comprendre l’influence des caractéristiques sociodémographiques des individus, de leur orientation politique et de leur niveau d'éducation algorithmique sur leur exposition à l’information sur les réseaux sociaux (le fait de voir des informations circuler sur ces réseaux) et sur leur engagement avec l'information (le fait de liker, commenter ou reposter de l'information). Nous voulons aussi mesurer la contribution de ces biais d'exposition et d'engagement sur la polarisation de la sphère publique.
+_
 ---
 
 ## **Chercheur•es impliqué•es**
