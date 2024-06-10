@@ -15,13 +15,11 @@ image: 			header-1.jpg
 
 Le projet FeedingBias est financé par l'Agence Nationale de la Recherche. Il vise à fournir des données et des outils permettant une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations (voir plus bas).
 
-Le projet FeedingBias est basé sur une démarche de science participative. Les plateformes des réseaux sociaux comme Facebook ou Twitter refusent en effet de plus en plus l'accès à leurs données aux chercheurs. Pour contourner cet obstacle, nous proposons aux participants à cette enquête — en plus de répondre à quelques questions — de nous donner accès, de manière très contrôlée, à des informations sur leur activité sur Twitter, Instagram, Facebook et YouTube.
+Ce projet est basé sur une démarche de science participative. Les plateformes des réseaux sociaux comme Facebook ou Twitter refusent en effet de plus en plus l'accès à leurs données aux chercheurs. Pour contourner cet obstacle, nous proposons aux participants à cette enquête — en plus de répondre à quelques questions — de nous donner accès, de manière très contrôlée, à des informations sur leur activité sur Twitter, Instagram, Facebook et YouTube.
 
-Nous ne collectons que des informations sur l'accès à l'information médiatique, en aucun cas des données concernant les relations personnelles et la vie privée des individus. Par ailleurs nous anonymisons strictement toutes les données que nous collectons. Vous pouvez participer à cette enquête en cliquant ci-dessous :
+Nous ne collectons que des informations sur l'accès à l'information médiatique, en aucun cas des données concernant les relations personnelles et la vie privée des individus. Par ailleurs nous anonymisons strictement toutes les données que nous collectons. En contrepartie de votre participation à l'enquête, vous aurez la possibilité de gagner un prix de 50€. Merci par avance de votre contribution !
 
 <a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60" class="center"></a>
-
-En contrepartie de votre participation à l'enquête, vous aurez la possibilité de gagner un prix de 50€. Merci par avance de votre contribution.
 
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du Règlement Général pour la Protection des Données. L'enquête a fait l'objet d'une inscription au registre des traitements du Centre National de la Recherche Scientifique. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
