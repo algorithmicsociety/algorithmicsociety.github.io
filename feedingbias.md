@@ -19,7 +19,7 @@ Ce projet est basé sur une démarche de science participative. Les plateformes 
 
 Nous ne collectons que des informations sur l'accès à l'information médiatique, en aucun cas des données concernant les relations personnelles et la vie privée des individus. Par ailleurs nous anonymisons strictement toutes les données que nous collectons. En contrepartie de votre participation à l'enquête, vous aurez la possibilité de gagner un prix de 50€. Merci par avance de votre contribution !
 
-<a href="https://enquetes-screen.msh-alpes.fr/index.php/521188?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60" class="center"></a>
+<a href="https://enquetes-screen.msh-alpes.fr/index.php/451574?lang=fr"><img src="https://algorithmicsociety.github.io/images/jeparticipe_bouton.jpg" height="60" class="center"></a>
 
 Toutes les données collectées dans le cadre de FeedingBias sont traitées selon les exigences du Règlement Général pour la Protection des Données. L'enquête a fait l'objet d'une inscription au registre des traitements du Centre National de la Recherche Scientifique. Le questionnaire est maintenu et hébergé par la [plateforme SCREEN](https://www.msh-alpes.fr/plateformes/screen). Les données produites dans le cadre de l'enquête sont stockées sur les serveurs de [GRICAD](https://gricad.univ-grenoble-alpes.fr/).
 
